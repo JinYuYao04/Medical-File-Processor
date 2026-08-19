@@ -20,6 +20,8 @@
 
 ### 运行
 
+需下载FFmpeg，解压后将 bin 目录添加到系统 PATH 环境变量
+
 ```bash
 pip install -r requirements.txt
 python main.py
