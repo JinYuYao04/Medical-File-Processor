@@ -21,7 +21,7 @@ COLORS = {
 }
 
 # 支持的视频格式
-VIDEO_EXTENSIONS = {'.mp4', '.avi', '.mov', '.mkv', '.wmv', '.flv', '.webm'}
+VIDEO_EXTENSIONS = {'.mp4'}
 
 
 @dataclass
