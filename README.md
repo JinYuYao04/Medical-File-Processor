@@ -20,16 +20,16 @@
 
 ### 运行
 
-需下载FFmpeg，解压后将 bin 目录添加到系统 PATH 环境变量，然后运行下面命令
+```bash
+https://ffmpeg.org/download.html
+```
+
+下载FFmpeg，解压后将 bin 目录添加到系统 PATH 环境变量，然后运行下面命令
 
 ```bash
 pip install -r requirements.txt
 python main.py
 ```
-```bash
-https://ffmpeg.org/download.html
-```
-
 ## 更新日志
 
 ### v1.0.0 (2026-08-19)
