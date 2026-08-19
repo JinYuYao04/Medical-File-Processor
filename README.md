@@ -20,7 +20,7 @@
 
 ### 运行
 
-需下载FFmpeg，解压后将 bin 目录添加到系统 PATH 环境变量
+需下载FFmpeg，解压后将 bin 目录添加到系统 PATH 环境变量，然后运行下面命令
 
 ```bash
 pip install -r requirements.txt
