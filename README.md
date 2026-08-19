@@ -26,6 +26,9 @@
 pip install -r requirements.txt
 python main.py
 ```
+```bash
+https://ffmpeg.org/download.html
+```
 
 ## 更新日志
 
