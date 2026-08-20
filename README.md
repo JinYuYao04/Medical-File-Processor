@@ -24,7 +24,7 @@ FFmpeg下载地址
 https://ffmpeg.org/download.html
 ```
 
-运行
+把ffmpeg.exe放到目录下，运行
 
 ```bash
 pip install -r requirements.txt
